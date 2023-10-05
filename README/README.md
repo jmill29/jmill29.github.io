@@ -8,8 +8,7 @@ Now let's get to it!
 - [Features](#features) <br>
 - [Technologies Used](#technologies-used) <br>
 - [How to Use](#how-to-use) <br>
-- [Contributions](#contributions) <br>
-- [License](#license)
+- [Contributions](#contributions)
 
 ## Project Description
 This website serves as a showcase of my skills in various programming languages, including Python, HTML, JavaScript, and Java. It's designed to highlight the diverse range of programming projects I've completed throughout the past few years. Additionally, you'll find my resume on the 'About Me' page, providing a comprehensive overview of my professional background.
@@ -44,7 +43,7 @@ Otherwise, if you're interested in exploring the code and setup of this portfoli
 git clone https://github.com/jmill29/jmill29.github.io.git
 ```
 
-2. <strong>Navigate to the Directory</strong>: Change your working directory to the project's root foler.
+2. <strong>Navigate to the Directory</strong>: Change your working directory to the project's root folder.
 
 ```bash
 cd jmill29.github.io
@@ -57,9 +56,6 @@ That's it! You're now prepared to explore my portfolio website and even adapt it
 
 ## Contributions
 No contributions will be accepted at this time, however if you'd like to report a bug, please email me at jacoblmiller.jlm@gmail.com.
-
-## License
-This portfolio website is open-source. Feel free to fork the repository and use it as a template for your own portfolio. Please ensure appropriate attribution if you choose to use this project as a starting point for your website.
 
 <br>
 Thank you for visiting my portfolio, and I hope you enjoy exploring my projects and gaining insights into my programming journey!
