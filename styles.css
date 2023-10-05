@@ -46,8 +46,7 @@ nav {
 }
 
 nav .link {
-    margin-right: 20px;
-    margin-left: 15px;
+    margin: 0 20px;
     text-align: center;
 }
 
@@ -139,6 +138,7 @@ nav .link h3 {
     border: 1px solid blue;
     grid-gap: 0;
     width: 10em;
+    justify-items: start;
     align-items: start;
     align-content: center;
     padding: 10px;
@@ -202,14 +202,27 @@ nav .link h3 {
     header {
         justify-content: space-around;
     }
-    header h3 {
-        font-size: 3vw;
-    }
-    .nav-links .hp-link a {
-        font-size: 3.5vw;
-    }
     .hp-link h4 {
         margin: 2.5vw;
+    }
+    nav .link h3 {
+        font-size: 2.5vh;
+    }
+    nav .link {
+        margin-right: 50px;
+    }
+    nav {
+        justify-content: space-between;
+        width: 100%;
+    }
+    .dropdown-content {
+        font-size: 2.25vh;
+    }
+    .nav-links .hp-link h4 {
+        font-size: 2.25vh;
+    }
+    #title h1 {
+        font-size: 6vh;
     }
 }
 
